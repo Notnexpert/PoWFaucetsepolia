@@ -120,9 +120,9 @@ Modules:
       minAccountAge: 5184000 # 60 days\
       minRepoCount: 2
   - restrictions:
-    - 5 sessions / max 50 PoWC per day
+    - 5 sessions / max 60 PoWC per day
 * ethinfo:
-  - max balance: 50 PoWC
+  - max balance: 60 PoWC
   - deny contracts: true
 
 ### Productive Instances
